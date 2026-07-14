@@ -1,5 +1,5 @@
 # Customer Support Multi-Agent System
-
+![Demo](assets/demo.gif)
 A supervisor-based multi-agent customer support system built with **LangGraph**,
 **FastAPI**, and **React**. An incoming support ticket is classified by a
 supervisor agent and routed to one of three specialist sub-agents (Technical,
