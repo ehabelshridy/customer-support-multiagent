@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Data / generated artifacts
+backend/app/db/support_system.db
+backend/app/db/checkpoints.db
+backend/app/rag/chroma_store/
+backend/app/rag/bm25_index.pkl
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

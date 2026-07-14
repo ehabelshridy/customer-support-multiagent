@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+app/db/support_system.db
+app/db/checkpoints.db
+app/rag/chroma_store/
+app/rag/bm25_index.pkl
+.git/
